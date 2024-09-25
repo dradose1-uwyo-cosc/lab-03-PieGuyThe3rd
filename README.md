@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Jalon Tyndall
+## Assignment 3
+## 09242024
 ## Worked with/sources 
 * example
 * example
